@@ -1,0 +1,3 @@
+ipython==8.12.3
+roboflow==1.1.67
+ultralytics==8.3.161
