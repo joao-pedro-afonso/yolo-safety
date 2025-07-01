@@ -32,7 +32,8 @@ The dataset can be accessed in https://universe.roboflow.com/wyhil-ru2ds/workers
 
 The notebook shows how the model was successfully trained and applied to different images, not only to the test set, but also to a different video. The results of the video inference can be seen in result_videos/ .
 
-![VIDEO](./result_videos/image.png)
+![IMAGE](./result_videos/image.png)
+![IMAGE2](./result_videos/image2.png)
 
 ## License
 
